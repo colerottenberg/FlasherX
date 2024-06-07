@@ -58,7 +58,7 @@ const int led = LED_BUILTIN;	// LED pin
 Stream *serial = &Serial;	// Serial (USB) or Serial1, Serial2, etc. (UART)
 
 #define FLASHERX_VERSION "FlasherX v2.3"
-#define HEX_FILE_NAME "FlasherX.ino.hex"	
+#define HEX_FILE_NAME "BPB_code.ino.hex"	
 
 #define LARGE_ARRAY (0)		// 1 = define large array to test large hex file
 
